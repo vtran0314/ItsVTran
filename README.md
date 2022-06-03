@@ -6,6 +6,5 @@ I'm a Cyber Security researcher and Developer!
     🍉 You can reach me via email or linkedin
     🍖 Fun fact, I love linux \o/
 
-![tryhackme stats](https://raw.githubusercontent.com/vtran0314/ItsVtran/master/assets/thm_propic.png)
 ## My TryHackMe Badge <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/vt196886.png" alt="TryHackMe">
