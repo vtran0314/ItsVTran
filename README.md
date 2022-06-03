@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+VTran;)](https://git.io/typing-svg)
 
--- ## My LinkedIn Badge <br /> --
+-! ## My LinkedIn Badge <br /> --
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/vinh-tran314/">
