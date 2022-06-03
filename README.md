@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 👋 Hi, I’m @vtran0314
 
 I'm a Cyber Security researcher and Developer!
