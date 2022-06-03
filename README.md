@@ -6,4 +6,4 @@ I'm a Cyber Security researcher and Developer!
     🍉 You can reach me via email or linkedin
     🍖 Fun fact, I love linux \o/
 
-![tryhackme stats](https://raw.githubusercontent.com/vtran0314/vtran0314/master/assets/thm_propic.png)
+![tryhackme stats](https://raw.githubusercontent.com/vtran0314/ItsVtran/master/assets/thm_propic.png)
