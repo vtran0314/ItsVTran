@@ -1,8 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I+am+VTran;)](https://git.io/typing-svg)
 
 ## My LinkedIn Badge <br />
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vinh-tran314" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vinh-tran314?trk=profile-badge">Vinh Tran</a></div>
+
 ![LinkedIn]({https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white})
+
+<p align='center'>
+  <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vinh-tran314" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/vinh-tran314?trk=profile-badge">Vinh Tran</a></div>
+  <a href="https://www.linkedin.com/in/alexandresanlim/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/alexandresanlim">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
 
 
 ## 👋: I'm a Cyber Security Student, and a Developer!
