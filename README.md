@@ -8,4 +8,4 @@ I'm a Cyber Security researcher and Developer!
 
 ![tryhackme stats](https://raw.githubusercontent.com/vtran0314/ItsVtran/master/assets/thm_propic.png)
 ## My TryHackMe Badge <br />
-<img src="https://tryhackme-badges.s3.amazonaws.com/KevintheBorg.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/vt196886.png" alt="TryHackMe">
