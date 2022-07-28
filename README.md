@@ -13,7 +13,7 @@
 
 - 📖: I'm currently learning Web Application pentest, Threat Hunting and bug bounty
 - ✏️: I'm developing network analysis script using python
-- 🤓: Fun fact, I love breaking hardware and system 😄
+- 🤓: Fun fact, I love Noodle soup 😄
 
 ## My TryHackMe Badge <br />
 <img src="https://tryhackme-badges.s3.amazonaws.com/vt196886.png" alt="TryHackMe">
